@@ -1,0 +1,1134 @@
+[
+  {
+    "id": 1,
+    "question": "Anonyma vittnen ska tillåtas i domstolar.",
+    "opinion": [
+      {
+        "party": "V",
+        "opinion": -2
+      },
+      {
+        "party": "S",
+        "opinion": -2
+      },
+      {
+        "party": "MP",
+        "opinion": -2
+      },
+      {
+        "party": "C",
+        "opinion": -2
+      },
+      {
+        "party": "L",
+        "opinion": -1
+      },
+      {
+        "party": "KD",
+        "opinion": 2
+      },
+      {
+        "party": "M",
+        "opinion": 2
+      },
+      {
+        "party": "SD",
+        "opinion": 2
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Kvinnans aborträtt ska skrivas in i grundlagen.",
+    "opinion": [
+      {
+        "party": "V",
+        "opinion": 2
+      },
+      {
+        "party": "S",
+        "opinion": 1
+      },
+      {
+        "party": "MP",
+        "opinion": 2
+      },
+      {
+        "party": "C",
+        "opinion": 2
+      },
+      {
+        "party": "L",
+        "opinion": 2
+      },
+      {
+        "party": "KD",
+        "opinion": 2
+      },
+      {
+        "party": "M",
+        "opinion": 2
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Företagens skatter ska sänkas.",
+    "opinion": [
+      {
+        "party": "V",
+        "opinion": -2
+      },
+      {
+        "party": "S",
+        "opinion": -2
+      },
+      {
+        "party": "MP",
+        "opinion": 1
+      },
+      {
+        "party": "C",
+        "opinion": 2
+      },
+      {
+        "party": "L",
+        "opinion": 2
+      },
+      {
+        "party": "KD",
+        "opinion": 2
+      },
+      {
+        "party": "M",
+        "opinion": 2
+      },
+      {
+        "party": "SD",
+        "opinion": 2
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Skogsägare ska få stärkt äganderätt.",
+    "opinion": [
+      {
+        "party": "V",
+        "opinion": -2
+      },
+      {
+        "party": "S",
+        "opinion": 1
+      },
+      {
+        "party": "MP",
+        "opinion": -1
+      },
+      {
+        "party": "C",
+        "opinion": 2
+      },
+      {
+        "party": "L",
+        "opinion": 1
+      },
+      {
+        "party": "KD",
+        "opinion": 2
+      },
+      {
+        "party": "M",
+        "opinion": 2
+      },
+      {
+        "party": "SD",
+        "opinion": -2
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "En särskild miljonärsskatt ska införas.",
+    "opinion": [
+      {
+        "party": "V",
+        "opinion": 2
+      },
+      {
+        "party": "S",
+        "opinion": 2
+      },
+      {
+        "party": "MP",
+        "opinion": 2
+      },
+      {
+        "party": "C",
+        "opinion": -2
+      },
+      {
+        "party": "L",
+        "opinion": -2
+      },
+      {
+        "party": "KD",
+        "opinion": -2
+      },
+      {
+        "party": "M",
+        "opinion": -2
+      },
+      {
+        "party": "SD",
+        "opinion": -2
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "En ny folkräkning ska genomföras.",
+    "opinion": [
+      {
+        "party": "V",
+        "opinion": -1
+      },
+      {
+        "party": "S",
+        "opinion": -1
+      },
+      {
+        "party": "MP",
+        "opinion": -1
+      },
+      {
+        "party": "C",
+        "opinion": -1
+      },
+      {
+        "party": "L",
+        "opinion": 2
+      },
+      {
+        "party": "KD",
+        "opinion": 2
+      },
+      {
+        "party": "M",
+        "opinion": 2
+      },
+      {
+        "party": "SD",
+        "opinion": 2
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Företagens regelbörda ska minska.",
+    "opinion": [
+      {
+        "party": "V",
+        "opinion": -1
+      },
+      {
+        "party": "S",
+        "opinion": 1
+      },
+      {
+        "party": "MP",
+        "opinion": 2
+      },
+      {
+        "party": "C",
+        "opinion": 2
+      },
+      {
+        "party": "L",
+        "opinion": 2
+      },
+      {
+        "party": "KD",
+        "opinion": 2
+      },
+      {
+        "party": "M",
+        "opinion": 2
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Biståndet ska sänkas.",
+    "opinion": [
+      {
+        "party": "V",
+        "opinion": -2
+      },
+      {
+        "party": "S",
+        "opinion": -2
+      },
+      {
+        "party": "MP",
+        "opinion": -2
+      },
+      {
+        "party": "C",
+        "opinion": -2
+      },
+      {
+        "party": "L",
+        "opinion": -2
+      },
+      {
+        "party": "KD",
+        "opinion": -2
+      },
+      {
+        "party": "M",
+        "opinion": 2
+      },
+      {
+        "party": "SD",
+        "opinion": -2
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Tandvård ska subventioneras som sjukvård.",
+    "opinion": [
+      {
+        "party": "V",
+        "opinion": 2
+      },
+      {
+        "party": "S",
+        "opinion": 2
+      },
+      {
+        "party": "MP",
+        "opinion": 2
+      },
+      {
+        "party": "C",
+        "opinion": 1
+      },
+      {
+        "party": "L",
+        "opinion": 1
+      },
+      {
+        "party": "KD",
+        "opinion": 1
+      },
+      {
+        "party": "M",
+        "opinion":-1
+      },
+      {
+        "party": "SD",
+        "opinion": 1
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Fri hyressättning ska införas.",
+    "opinion": [
+      {
+        "party": "V",
+        "opinion": -2
+      },
+      {
+        "party": "S",
+        "opinion": -2
+      },
+      {
+        "party": "MP",
+        "opinion": -2
+      },
+      {
+        "party": "C",
+        "opinion": 1
+      },
+      {
+        "party": "L",
+        "opinion": 1
+      },
+      {
+        "party": "KD",
+        "opinion": 1
+      },
+      {
+        "party": "M",
+        "opinion": 1
+      },
+      {
+        "party": "SD",
+        "opinion": -2
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Mångkulturen berikar Sverige.",
+    "opinion": [
+      {
+        "party": "V",
+        "opinion": 2
+      },
+      {
+        "party": "S",
+        "opinion": 2
+      },
+      {
+        "party": "MP",
+        "opinion": 2
+      },
+      {
+        "party": "C",
+        "opinion": 2
+      },
+      {
+        "party": "L",
+        "opinion": 1
+      },
+      {
+        "party": "KD",
+        "opinion": 1
+      },
+      {
+        "party": "M",
+        "opinion": -1
+      },
+      {
+        "party": "SD",
+        "opinion": -2
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "Färre företag ska vara momspliktiga.",
+    "opinion": [
+      {
+        "party": "V",
+        "opinion": -2
+      },
+      {
+        "party": "S",
+        "opinion": -2
+      },
+      {
+        "party": "MP",
+        "opinion": 2
+      },
+      {
+        "party": "C",
+        "opinion": 2
+      },
+      {
+        "party": "L",
+        "opinion": 2
+      },
+      {
+        "party": "KD",
+        "opinion": 2
+      },
+      {
+        "party": "M",
+        "opinion": 1
+      },
+      {
+        "party": "SD",
+        "opinion": -1
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "Ränteavdraget för bostadslån ska trappas ned.",
+    "opinion": [
+      {
+        "party": "V",
+        "opinion": 2
+      },
+      {
+        "party": "S",
+        "opinion": -2
+      },
+      {
+        "party": "MP",
+        "opinion": 1
+      },
+      {
+        "party": "C",
+        "opinion": -1
+      },
+      {
+        "party": "L",
+        "opinion": -2
+      },
+      {
+        "party": "KD",
+        "opinion": 1
+      },
+      {
+        "party": "M",
+        "opinion": -2
+      },
+      {
+        "party": "SD",
+        "opinion": -2
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "Kärnkraften ska byggas ut.",
+    "opinion": [
+      {
+        "party": "V",
+        "opinion": -2
+      },
+      {
+        "party": "S",
+        "opinion": 1
+      },
+      {
+        "party": "MP",
+        "opinion": -2
+      },
+      {
+        "party": "C",
+        "opinion": -1
+      },
+      {
+        "party": "L",
+        "opinion": 2
+      },
+      {
+        "party": "KD",
+        "opinion": 2
+      },
+      {
+        "party": "M",
+        "opinion": 2
+      },
+      {
+        "party": "SD",
+        "opinion": 2
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "Föräldraförsäkringen ska delas lika mellan föräldrarna.",
+    "opinion": [
+      {
+        "party": "V",
+        "opinion": 2
+      },
+      {
+        "party": "S",
+        "opinion": 2
+      },
+      {
+        "party": "MP",
+        "opinion": 1
+      },
+      {
+        "party": "C",
+        "opinion": -1
+      },
+      {
+        "party": "L",
+        "opinion": -1
+      },
+      {
+        "party": "KD",
+        "opinion": -2
+      },
+      {
+        "party": "M",
+        "opinion": -1
+      },
+      {
+        "party": "SD",
+        "opinion": -1
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Sverige ska bli medlem av Nato.",
+    "opinion": [
+      {
+        "party": "V",
+        "opinion": -2
+      },
+      {
+        "party": "S",
+        "opinion": 2
+      },
+      {
+        "party": "MP",
+        "opinion": -2
+      },
+      {
+        "party": "C",
+        "opinion": 2
+      },
+      {
+        "party": "L",
+        "opinion": 2
+      },
+      {
+        "party": "KD",
+        "opinion": 2
+      },
+      {
+        "party": "M",
+        "opinion": 2
+      },
+      {
+        "party": "SD",
+        "opinion": 2
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "question": "En moderniserad arbetsrätt ska göra det lättare att säga upp viss personal.",
+    "opinion": [
+      {
+        "party": "V",
+        "opinion": -2
+      },
+      {
+        "party": "S",
+        "opinion": -2
+      },
+      {
+        "party": "MP",
+        "opinion": -2
+      },
+      {
+        "party": "C",
+        "opinion": 2
+      },
+      {
+        "party": "L",
+        "opinion": 2
+      },
+      {
+        "party": "KD",
+        "opinion": 2
+      },
+      {
+        "party": "M",
+        "opinion": 2
+      },
+      {
+        "party": "SD",
+        "opinion": -1
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Människor ska inte behöva sänka sin levnadsstandard för klimatets skull.",
+    "opinion": [
+      {
+        "party": "V",
+        "opinion": -1
+      },
+      {
+        "party": "S",
+        "opinion": 2
+      },
+      {
+        "party": "MP",
+        "opinion": 1
+      },
+      {
+        "party": "C",
+        "opinion": 1
+      },
+      {
+        "party": "L",
+        "opinion": 1
+      },
+      {
+        "party": "KD",
+        "opinion": 1
+      },
+      {
+        "party": "M",
+        "opinion": 2
+      },
+      {
+        "party": "SD",
+        "opinion": 2
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "question": "Gårdsförsäljning av vin och öl ska tillåtas.",
+    "opinion": [
+      {
+        "party": "V",
+        "opinion": -2
+      },
+      {
+        "party": "S",
+        "opinion": -1
+      },
+      {
+        "party": "MP",
+        "opinion": -1
+      },
+      {
+        "party": "C",
+        "opinion": 2
+      },
+      {
+        "party": "L",
+        "opinion": 1
+      },
+      {
+        "party": "KD",
+        "opinion": 1
+      },
+      {
+        "party": "M",
+        "opinion": 2
+      },
+      {
+        "party": "SD",
+        "opinion": 2
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "Vinst i skolan ska förbjudas.",
+    "opinion": [
+      {
+        "party": "V",
+        "opinion": 2
+      },
+      {
+        "party": "S",
+        "opinion": 2
+      },
+      {
+        "party": "MP",
+        "opinion": 2
+      },
+      {
+        "party": "C",
+        "opinion": -1
+      },
+      {
+        "party": "L",
+        "opinion": -1
+      },
+      {
+        "party": "KD",
+        "opinion": -1
+      },
+      {
+        "party": "M",
+        "opinion": -1
+      },
+      {
+        "party": "SD",
+        "opinion": -1
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "question": "Tonåringar ska kunna dömas till fängelse.",
+    "opinion": [
+      {
+        "party": "V",
+        "opinion": -1
+      },
+      {
+        "party": "S",
+        "opinion": 2
+      },
+      {
+        "party": "MP",
+        "opinion": 1
+      },
+      {
+        "party": "C",
+        "opinion": 1
+      },
+      {
+        "party": "L",
+        "opinion": 2
+      },
+      {
+        "party": "KD",
+        "opinion": 2
+      },
+      {
+        "party": "M",
+        "opinion": 2
+      },
+      {
+        "party": "SD",
+        "opinion": 2
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "question": "Public service ska bantas.",
+    "opinion": [
+      {
+        "party": "V",
+        "opinion": -2
+      },
+      {
+        "party": "S",
+        "opinion": -2
+      },
+      {
+        "party": "MP",
+        "opinion": -2
+      },
+      {
+        "party": "C",
+        "opinion": -2
+      },
+      {
+        "party": "L",
+        "opinion": -2
+      },
+      {
+        "party": "KD",
+        "opinion": 2
+      },
+      {
+        "party": "M",
+        "opinion": 1
+      },
+      {
+        "party": "SD",
+        "opinion": 2
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "question": "Polisen ska kunna införa visitationszoner för att söka efter vapen.",
+    "opinion": [
+      {
+        "party": "V",
+        "opinion": -2
+      },
+      {
+        "party": "S",
+        "opinion": -2
+      },
+      {
+        "party": "MP",
+        "opinion": -2
+      },
+      {
+        "party": "C",
+        "opinion": -2
+      },
+      {
+        "party": "L",
+        "opinion": -2
+      },
+      {
+        "party": "KD",
+        "opinion": 2
+      },
+      {
+        "party": "M",
+        "opinion": 2
+      },
+      {
+        "party": "SD",
+        "opinion": 2
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "question": "Religiösa friskolor ska förbjudas.",
+    "opinion": [
+      {
+        "party": "V",
+        "opinion": 2
+      },
+      {
+        "party": "S",
+        "opinion": 2
+      },
+      {
+        "party": "MP",
+        "opinion": 2
+      },
+      {
+        "party": "C",
+        "opinion": -1
+      },
+      {
+        "party": "L",
+        "opinion": 2
+      },
+      {
+        "party": "KD",
+        "opinion": -2
+      },
+      {
+        "party": "M",
+        "opinion": 1
+      },
+      {
+        "party": "SD",
+        "opinion": 1
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "question": "Kostnaderna för att anställa ska minska.",
+    "opinion": [
+      {
+        "party": "V",
+        "opinion": -2
+      },
+      {
+        "party": "S",
+        "opinion": -1
+      },
+      {
+        "party": "MP",
+        "opinion": 2
+      },
+      {
+        "party": "C",
+        "opinion": 2
+      },
+      {
+        "party": "L",
+        "opinion": 2
+      },
+      {
+        "party": "KD",
+        "opinion": 2
+      },
+      {
+        "party": "M",
+        "opinion": 2
+      },
+      {
+        "party": "SD",
+        "opinion": 1
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "question": "Statliga museer ska ha gratis inträde.",
+    "opinion": [
+      {
+        "party": "V",
+        "opinion": 2
+      },
+      {
+        "party": "S",
+        "opinion": 2
+      },
+      {
+        "party": "MP",
+        "opinion": 2
+      },
+      {
+        "party": "C",
+        "opinion": -1
+      },
+      {
+        "party": "L",
+        "opinion": 1
+      },
+      {
+        "party": "KD",
+        "opinion": -2
+      },
+      {
+        "party": "M",
+        "opinion": -2
+      },
+      {
+        "party": "SD",
+        "opinion": 1
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "question": "Reduktionsplikten ska sänkas.",
+    "opinion": [
+      {
+        "party": "V",
+        "opinion": 2
+      },
+      {
+        "party": "S",
+        "opinion": -1
+      },
+      {
+        "party": "MP",
+        "opinion": -2
+      },
+      {
+        "party": "C",
+        "opinion": -2
+      },
+      {
+        "party": "L",
+        "opinion": 1
+      },
+      {
+        "party": "KD",
+        "opinion": 2
+      },
+      {
+        "party": "M",
+        "opinion": 2
+      },
+      {
+        "party": "SD",
+        "opinion": 2
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "question": "Språkkrav ska införas för den som söker permanent uppehållstillstånd i Sverige.",
+    "opinion": [
+      {
+        "party": "V",
+        "opinion": -2
+      },
+      {
+        "party": "S",
+        "opinion": 2
+      },
+      {
+        "party": "MP",
+        "opinion": -2
+      },
+      {
+        "party": "C",
+        "opinion": -2
+      },
+      {
+        "party": "L",
+        "opinion": 1
+      },
+      {
+        "party": "KD",
+        "opinion": 2
+      },
+      {
+        "party": "M",
+        "opinion": 2
+      },
+      {
+        "party": "SD",
+        "opinion": 2
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "question": "Fler jobbskatteavdrag ska införas.",
+    "opinion": [
+      {
+        "party": "V",
+        "opinion": -2
+      },
+      {
+        "party": "S",
+        "opinion": -2
+      },
+      {
+        "party": "MP",
+        "opinion": -2
+      },
+      {
+        "party": "C",
+        "opinion": 2
+      },
+      {
+        "party": "L",
+        "opinion": 2
+      },
+      {
+        "party": "KD",
+        "opinion": 2
+      },
+      {
+        "party": "M",
+        "opinion": 2
+      },
+      {
+        "party": "SD",
+        "opinion": 1
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "question": "Staten ska ta över ansvaret för sjukvården från regionerna. ",
+    "opinion": [
+      {
+        "party": "V",
+        "opinion": -2
+      },
+      {
+        "party": "S",
+        "opinion": -1
+      },
+      {
+        "party": "MP",
+        "opinion": -2
+      },
+      {
+        "party": "C",
+        "opinion": -1
+      },
+      {
+        "party": "L",
+        "opinion": 1
+      },
+      {
+        "party": "KD",
+        "opinion": 2
+      },
+      {
+        "party": "M",
+        "opinion": -1
+      },
+      {
+        "party": "SD",
+        "opinion": 1
+      }
+    ]
+  }
+]
